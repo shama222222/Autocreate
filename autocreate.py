@@ -63,8 +63,8 @@ logo4 = """
 ⠀⠀⠀⠀⠀⠙⠦⣝⠛⠛⠛⣿⣿⣿⣿⣿⣿⣿⣿⡛⠛⠛⣋⠴⠋⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠉⠒⠦⠿⣿⣿⣿⣿⣿⣿⠿⠧⠒⠋⠁⠀⠀⠀⠀⠀⠀⠀
 \x1b[97;1m──────────────────────────────────────────────────
-[\x1b[91;1m•\x1b[97;1m] Owner     : Shisui - Xd         
-[\x1b[91;1m•\x1b[97;1m] Facebook  : Shisui Hinobi      
+[\x1b[91;1m•\x1b[97;1m] Owner     : Rahul - Xd         
+[\x1b[91;1m•\x1b[97;1m] Facebook  : Ansh Abhay ka baap     
 [\x1b[91;1m•\x1b[97;1m] Tool Type : \033[1;31mCreate Fb\033[1;37m        
 \x1b[97;1m──────────────────────────────────────────────────"""
 boy = ['Ali Khan', 'Rustam Khan', 'Faisal Khan', 'Afzal Khan', 'Haider Khan', 'Suleman Khan', 'Nadeem Khan', 'Nazeer Malik', 'Nazeer Jutt', 'Nazeer Rehmani', 'Safdar Malik', 'Intzar Khan', 'Saleem Malik', 'Abdullah Malik', 'Naseer Jutt', 'Muzammil Malik', 'Fiaz Ahmad', 'Asghar Ali', 'Shabeer Ahmad', 'Irfan Ali', 'Ahmad Gujjar']
